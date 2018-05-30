@@ -8,7 +8,7 @@
 				"description": "Base URL for Template Files",
 				"artifactsBaseUrl": ""
 			},
-			"defaultValue": "https://raw.githubusercontent.com/mglantz/ocp39-azure-simple/master/"
+			"defaultValue": "https://raw.githubusercontent.com/ikke-t/ocp39-azure-simple/fix-nfs/"
 		},
 		"masterVmSize": {
 			"type": "string",

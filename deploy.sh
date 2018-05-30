@@ -88,7 +88,7 @@ cat > azuredeploy.parameters.json << EOF
         "contentVersion": "1.0.0.0",
         "parameters": {
                 "_artifactsLocation": {
-                        "value": "https://raw.githubusercontent.com/mglantz/ocp39-azure-simple/master/"
+                        "value": "https://raw.githubusercontent.com/ikke-t/ocp39-azure-simple/fix-nfs/"
                 },
                 "masterVmSize": {
                         "value": "Standard_DS4_v2"
